@@ -40,14 +40,24 @@
     ],
     "uniqCompNum": 13,
     "versionPublish": "4.12.3",
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://jogjaseo.github.io/",
+    "sitemapSwitcherAuto": "on",
+    "favicon": false,
+    "canonical-url": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "google-analytics": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ProfessionalService\",\n  \"name\": \"Jasa SEO Jogja\",\n  \"image\": \"https://jogjaseo.github.io/assets/images/jasa-seo-jogja-923x617.jpg\",\n  \"@id\": \"\",\n  \"url\": \"https://fxname.com/\",\n  \"telephone\": \"08996500800\",\n  \"priceRange\": \"50\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Jl. Wates Km.12 Sedayu Bantul\",\n    \"addressLocality\": \"Yogyakarta\",\n    \"postalCode\": \"55753\",\n    \"addressCountry\": \"ID\"\n  },\n  \"geo\": {\n    \"@type\": \"GeoCoordinates\",\n    \"latitude\": -7.8037050637291605,\n    \"longitude\": 110.25941612443278\n  },\n  \"openingHoursSpecification\": {\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Monday\",\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\",\n      \"Friday\",\n      \"Saturday\"\n    ],\n    \"opens\": \"09:00\",\n    \"closes\": \"16:00\"\n  },\n  \"sameAs\": [\n    \"https://www.facebook.com/JogjaSEO\"\n  ]\n}\n</script>\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://fxname.com/\"\n  },\n  \"headline\": \"Konsultan SEO Jogja | Pakar Jasa SEO Jogja\",\n  \"description\": \"Jasa SEO Jogja dari pakar dan konsultan SEO Jogja terbaik untuk membantu memperkenalkan produk dan jasa di seluruh dunia secara online\",\n  \"image\": \"https://jogjaseo.github.io/assets/images/jasa-seo-jogja-923x617.jpg\",  \n  \"author\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Laksita Expert Innovation\"\n  },  \n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Laksita Expert Innovation\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://jogjaseo.github.io/assets/images/jasa-seo-jogja.png\",\n      \"width\": 60,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2020-04-18\",\n  \"dateModified\": \"2020-04-18\"\n  },\n  \"aggregateRating\" : {\n    \"@type\" : \"AggregateRating\",\n    \"ratingValue\" : \"5\",\n    \"bestRating\" : \"5\",\n    \"worstRating\" : \"0\",\n    \"ratingCount\" : \"32\"\n  }\n}\n</script>"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Konsultan SEO Jogja | Pakar Jasa SEO Jogja",
+        "meta_descr": "Jasa SEO Jogja dari pakar dan konsultan SEO Jogja terbaik untuk membantu memperkenalkan produk dan jasa di seluruh dunia secara online",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
